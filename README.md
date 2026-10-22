@@ -38,21 +38,6 @@ Funziona anche senza connessione Internet: HTML, CSS, JavaScript e contenuti son
 
 Ogni caso richiede due tipi di giudizio: uno **sui singoli elementi del documento** e uno **sull'idoneità del suo utilizzo nello strumento proposto**. Le classificazioni sono valutate nel contesto specifico dello scenario, non come etichette universali applicabili a ogni dato.
 
-## Come pubblicare su GitHub Pages
-
-1. Crea un repository GitHub, per esempio `fascicolo-sotto-la-lente`.
-2. Carica nella directory principale `index.html` e `README.md`.
-3. Apri **Settings → Pages**.
-4. In **Build and deployment**, scegli **Deploy from a branch**.
-5. Seleziona il branch `main` e la cartella `/(root)`, quindi salva.
-6. Quando la pubblicazione è completata, apri:
-
-   `https://NOME-UTENTE.github.io/fascicolo-sotto-la-lente/`
-
-Sostituisci `NOME-UTENTE` e il nome del repository con quelli effettivi. Non servono un processo di build, npm o GitHub Actions.
-
-> Suggerimento: imposta il link del sito nella sezione **About** del repository, così le persone potranno avviare facilmente il laboratorio.
-
 ## Modalità d'uso consigliate
 
 **Individuale:** leggi ogni caso, completa le classificazioni e confronta le motivazioni con i feedback prima di passare al successivo.
