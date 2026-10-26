@@ -8,7 +8,7 @@ Non richiede account, registrazione, installazione, servizi cloud o una chiave A
 
 <img width="1765" height="651" alt="Screenshot 2026-10-26 alle 09 57 10" src="https://github.com/user-attachments/assets/296554a2-7645-466b-9ea8-eff2c1553b04" />
 
----
+
 ## Demo on line
 
 Web demo su Github pages: https://gigicogo.github.io/Il-fascicolo-sotto-la-lente/
