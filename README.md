@@ -13,7 +13,7 @@ Non richiede account, registrazione, installazione, servizi cloud o una chiave A
 
 Web demo su Github pages: https://gigicogo.github.io/Il-fascicolo-sotto-la-lente/
 
----
+
 ## Prova subito
 
 1. Scarica il file [`index.html`](./index.html).
