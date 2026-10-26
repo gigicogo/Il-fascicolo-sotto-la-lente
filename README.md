@@ -84,17 +84,21 @@ Browser recenti con supporto JavaScript e HTML `dialog`. L'interfaccia è respon
 
 Non sono previste integrazioni con database, sistemi di autenticazione o servizi di terze parti.
 
-## Riutilizzo e contributi
+---
 
-Puoi scaricare e sperimentare il progetto localmente. Se desideri pubblicare una versione derivata e concedere esplicitamente ad altri i diritti di utilizzo, modifica e redistribuzione, aggiungi nel repository un file `LICENSE` con la licenza scelta dal titolare del progetto.
+## 📄 Licenza
 
-Per proporre miglioramenti, apri una **Issue** o una **Pull request** nel repository che ospita l'applicazione. Sono particolarmente utili segnalazioni su accessibilità, chiarezza dei casi, compatibilità con i browser e nuove situazioni d'uso.
+Da definire: si suggerisce una licenza aperta (es. MIT o CC BY 4.0) per favorire il riuso da parte di altri formatori o altri enti. Sostituisci questo paragrafo con il testo della licenza scelta e il file `LICENSE` del repo.
 
-## Risorse collegate
+## 👤 Autore e contesto
 
-Se questi materiali ti sono utili, puoi seguire anche il resto del lavoro che faccio su AI generativa e divulgazione:
+**Gianluigi Cogo**  
+Content creator e technical writer interessato ad AI generativa, automazioni, viaggi e strumenti digitali. Consulente e docente sui temi dell’IA generativa nella Pubblica Amministrazione.
 
-- **Newsletter** – https://gigicogo.substack.com - approfondimenti, casi d’uso e strumenti su AI generativa e content creation.  
-- **Articoli** – https://webeconoscenza.gigicogo.it - guide e riflessioni su Medium / blog, con esempi pratici di utilizzo delle skill.  
-- **Video e podcast** – https://www.youtube.com/@gigicogo - Guide, interviste e tutorial su IA Generativa.
+L’app nasce come esercitazione nel percorso operativo **“L’IA nella Pubblica Amministrazione — Percorso operativo per l’uso consapevole, sicuro e governato dell’IA generativa”** (20 ore: percorso base per funzionari ed esecutori + modulo governance per direttori e dirigenti). Per info sul corso contattami usando i social qui sotto.
+
+- 📮 **Newsletter:** [gigicogo.substack.com](https://gigicogo.substack.com)
+- 📝 **Blog:** [medium.com/webeconoscenza](https://medium.com/webeconoscenza)
+- ▶️ **YouTube:** [youtube.com/@gigicogo](https://youtube.com/@gigicogo)
+- 💼 **LinkedIn:** [linkedin.com/in/gigicogo](https://www.linkedin.com/in/gigicogo)
 
